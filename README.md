@@ -57,9 +57,7 @@ npm run preview
 
 ```env
 VITE_OLLAMA_BASE_URL=http://localhost:11434/
-VITE_OLLAMA_MODEL=qwen3:4b
-VITE_OPENAI_API_KEY=your_openai_key_here
-VITE_GOOGLE_API_KEY=your_google_key_here
+VITE_OLLAMA_MODEL=nemotron-3-nano:30b-cloud
 ```
 
 Важно по безопасности
